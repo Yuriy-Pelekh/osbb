@@ -1,0 +1,14 @@
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\bin\Debug\netcoreapp2.1\LessonWebApi1.deps.json
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\bin\Debug\netcoreapp2.1\LessonWebApi1.runtimeconfig.json
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\bin\Debug\netcoreapp2.1\LessonWebApi1.runtimeconfig.dev.json
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\bin\Debug\netcoreapp2.1\LessonWebApi1.dll
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\bin\Debug\netcoreapp2.1\LessonWebApi1.pdb
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\obj\Debug\netcoreapp2.1\LessonWebApi1.csprojAssemblyReference.cache
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\obj\Debug\netcoreapp2.1\LessonWebApi1.csproj.CoreCompileInputs.cache
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\obj\Debug\netcoreapp2.1\LessonWebApi1.RazorAssemblyInfo.cache
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\obj\Debug\netcoreapp2.1\LessonWebApi1.RazorAssemblyInfo.cs
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\obj\Debug\netcoreapp2.1\LessonWebApi1.AssemblyInfoInputs.cache
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\obj\Debug\netcoreapp2.1\LessonWebApi1.AssemblyInfo.cs
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\obj\Debug\netcoreapp2.1\LessonWebApi1.RazorTargetAssemblyInfo.cache
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\obj\Debug\netcoreapp2.1\LessonWebApi1.dll
+C:\Users\Kreal.DESKTOP-EDG9HFV\source\repos\LessonWebApi1\LessonWebApi1\obj\Debug\netcoreapp2.1\LessonWebApi1.pdb

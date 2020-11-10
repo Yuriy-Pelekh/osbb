@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kreal.DESKTOP-EDG9HFV\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kreal.DESKTOP-EDG9HFV\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
